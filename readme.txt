@@ -1,0 +1,1 @@
+点击Don_Mini_PS.exe，可在matlab环境下直接运行而不用通过Final.m
